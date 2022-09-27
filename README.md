@@ -2,7 +2,7 @@
 Playing around with Google Drive API
 
 
-A basic app for the Google Drive API.
+A basic cli app for the Google Drive API written in Python.
 To use you will have to set up the API for access, the instructions of which can be found on the Google site.
 Forward navigation is by entering a number from the right hand column, which represents the Folder to enter.
 'back' returns to the previous Folder.
